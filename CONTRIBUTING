@@ -1,0 +1,7 @@
+##Rules for contribution:
+- test code first before PR
+- using latest version of modules and/or dependencies. There are some exceptions which must be provided in the PR and in the code
+- When using AI tools like CoPilot. Always read code before PR. No vibe-coding allowed.
+- For every new or updated feature, there must be example. These examples are/will be used as testing for different OS support.
+- Commits must be clear and descriptive. Nothing like: "Correction of error", "fixing problems", .... You must specified what was wrong what commit include.
+- Branch must be for single feature or single fix. No single branch for multiple problems. There are exceptions like initial commits and basic implementations.
